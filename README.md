@@ -1,7 +1,7 @@
 # Rafael Campos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafacvs)](https://github.com/rafacvs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-campos-b105791a0/)](https://www.linkedin.com/in/rafael-campos-b105791a0/)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.cvs26@gmail.com)
 ### Sobre mim (PT/BR)
 👦 Meu nome é Rafael e tenho 19 anos. Tive meu primeiro contato com a programação faz 5 anos, no ensino médio técnico, apesar de já estar muito ligado ao mundo da tecnologia desde muito pequeno. Ao longo dos três anos de curso, consegui desenvolver e aprimorar minha lógica de programação e programar utilizando diversas linguagens e tecnologias, como:
 - C#
